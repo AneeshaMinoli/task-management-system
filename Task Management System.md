@@ -111,7 +111,7 @@ database/task\_manager.sql
 
 5\. Update **config/db.php** with your local database credentials
 
-6\. Visit **http://localhost/task\_manager/auth/index.php** in your browser
+6\. Visit **http://localhost/task_manager/auth/index.php** in your browser
 
 
 
